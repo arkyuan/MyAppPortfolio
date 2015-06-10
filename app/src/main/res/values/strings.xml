@@ -3,4 +3,13 @@
 
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+
+    <!--Title and Btn names-->
+    <string name="title_text_name">My Nanodegree Apps!</string>
+    <string name="spotify_btn_name">SPOTIFY STREAMER</string>
+    <string name="scores_btn_name">SCORES APP</string>
+    <string name="library_btn_name">LIBRARY APP</string>
+    <string name="build_btn_name">BUILD IT BIGGER</string>
+    <string name="xyz_reader_btn_name">XYZ READER</string>
+    <string name="capstone_btn_name">CAPSTONE: MY OWN APP</string>
 </resources>
